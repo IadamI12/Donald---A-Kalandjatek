@@ -1,0 +1,13 @@
+3
+Gunther, a Goliat
+30
+30
+3
+Robi, a Rosszfiu
+60
+60
+6
+Todor, a Tolvaj
+100
+100
+10
